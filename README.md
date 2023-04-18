@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @veerendra
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Veerendra Hullatti
+- 👀 I’m interested in 
+- 🌱 I’m currently learning React JS and Flutter 
+- 💞️ I’m looking to collaborate Medium.
+- 📫 How to reach me.
 
 <!---
 veerendra0607/veerendra0607 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
